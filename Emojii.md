@@ -1,11 +1,17 @@
-:) ou :-) : Sourire
-:( ou :-( : Triste
-:D ou :-D : Rire
-:P ou :-P : Tirer la langue
-;) ou ;-) : Clin d'œil
-:o ou :-o : Surprise
-:| ou :-| : Neutre
-:/ ou :-/ : Confus ou sceptique
-:'( : Pleurer
-<3 : Cœur
-:') : Émotionnel ou heureux aux larmes
+ - Sourire : :) ou :-)
+ - Triste : :( ou :-(
+ - Rire : :D ou :-D
+ - Tirer la langue : :P ou :-P
+ - Clin d'oeil : ;) ou ;-)
+ - Surprise : :o ou :-o
+ - Neutre : :| ou :-|
+ - Confud ou sceptique : :/ ou :-/
+ - Pleurer : :'(
+ - Coeur : <3
+ - Emotionnel ou heureux aux larmes : :')
+ - Heureux ou satisfait : ^_^
+ - Trop de pleurs ou triste : T_T
+ - O_O : Choqué o surpris
+ - XD : Rire aux éclats
+ - :3 : Mignon
+ 
